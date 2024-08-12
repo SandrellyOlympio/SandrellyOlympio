@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SandrellyOlympio
-- 👀 I’m interested in 'Technology'
+- 👀 I’m interested in 'Technology' 'Data'
 - 🌱 I’m currently learning 'Databricks' 'Python' 'SQL' 
 - 💞️ I’m looking to collaborate on 'Sustainable World"
 - 📫 How to reach me 'sandrelly.olympio@hotmail.com'
